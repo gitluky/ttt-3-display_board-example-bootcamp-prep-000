@@ -5,10 +5,6 @@ def display_board
   print row[0]
   print row[1]
   print row[3]
-  puts dash_line
-  puts row
-  puts dash_line
-  puts row
 end
 
 display_board
