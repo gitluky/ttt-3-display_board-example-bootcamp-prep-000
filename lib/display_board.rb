@@ -12,7 +12,7 @@ def display_board
   puts dash_line
   print row[0]
   print row[1]
-  print row[2]
+  puts row[2]
 
 end
 
