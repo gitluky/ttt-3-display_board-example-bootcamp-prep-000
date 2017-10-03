@@ -8,3 +8,5 @@ def display_board
   puts dash_line
   puts row  
 end
+
+display_board
