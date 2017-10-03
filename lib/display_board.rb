@@ -13,7 +13,6 @@ def display_board
   print row[0]
   print row[1]
   puts row[2]
-
 end
 
 display_board
