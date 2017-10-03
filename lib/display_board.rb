@@ -4,8 +4,8 @@ def display_board
   dash_line = "-----------"
   print row[0]
   print row[1]
-  print row[2]
-  puts dash_line
+  puts row[2]
+  print dash_line
   print row[0]
   print row[1]
   print row[2]
